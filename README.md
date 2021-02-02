@@ -1,6 +1,8 @@
 # PySploitus
 Just another wrapper. This script is a wrapper for exploit/PoC search engine **Sploitus** by Vulners https://sploitus.com/.
 
+![screenshot](img/pysploitus.png)
+
 ## Install
 `git clone https://github.com/adubaldo/pysploitus.git`
 
@@ -38,9 +40,6 @@ options:
 **Search tools**
 
 `python sploitcli.py -t tools "sudo 1.8.*"`
-
-## Output
-![screenshot](img/pysploitus.png)
 
 ## TODO
 - Save results to csv file
