@@ -31,15 +31,15 @@ options:
 
 **Search and sort by date**
 
-`python sploitcli.py -t exploits -q "sudo 1.8.*" --max 30 -s date`
+`python pysploitus.py -t exploits -q "sudo 1.8.*" --max 30 -s date`
 
 **Search and sort by score**
 
-`python sploitcli.py -t exploits "sudo 1.8.*" --view-all -s score`
+`python pysploitus.py -t exploits "sudo 1.8.*" --view-all -s score`
 
 **Search tools**
 
-`python sploitcli.py -t tools "sudo 1.8.*"`
+`python pysploitus.py -t tools "sudo 1.8.*"`
 
 ## TODO
 - Save results to csv file
