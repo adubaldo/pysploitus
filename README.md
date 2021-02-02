@@ -37,7 +37,7 @@ options:
 
 **Search tools**
 
-`python sploitcli.py -t tools "moodle 3.2"`
+`python sploitcli.py -t tools "sudo 1.8.*"`
 
 ## Output
 ![screenshot](img/pysploitus.png)
